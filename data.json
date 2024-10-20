@@ -132,12 +132,12 @@
                 "text": "הסכמתם לקבל הודעות מהמפרסם?",
                 "type": "radio",
                 "options": [
-                    { "text": "כן", "next": 13 },
+                    { "text": "יתכן שכן", "next": 13 },
                     { "text": "לא", "next": 13 }
                 ],
                 "eligible": null,
                 "next": [
-                    { "id": 13, "answer": "כן" },
+                    { "id": 13, "answer": "יתכן שכן" },
                     { "id": 13, "answer": "לא" }
                 ],
                 "x": 1112,
@@ -149,12 +149,12 @@
                 "type": "radio",
                 "options": [
                     { "text": "כן", "next": 16 },
-                    { "text": "לא", "next": 20 }
+                    { "text": "לא שזכור לי", "next": 20 }
                 ],
                 "eligible": null,
                 "next": [
                     { "id": 16, "answer": "כן" },
-                    { "id": 20, "answer": "לא" }
+                    { "id": 20, "answer": "לא שזכור לי" }
                 ],
                 "x": 1668,
                 "y": 838.154
