@@ -74,7 +74,7 @@
       "id": "username",
       "question": "מה השם שלך?",
       "type": "text",
-        "helptext": "הזן כאן את שמך המלא"
+        "helptext": "שם פרטי ושם משפחה"
     },
     {
       "id": "user-phone",
